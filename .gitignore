@@ -3,3 +3,11 @@
 
 # Visual Studio 2015 database file
 *.VC.db
+
+# Other Visual Studio files
+*.sln
+*.vcxproj
+*.vcxproj.filters
+
+# Unecessary files
+ToolsCaller.cpp
